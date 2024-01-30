@@ -6,4 +6,6 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 ## Businness Task <br>
 Analyzing smart device usage data in order to gain insight into how people are already using their smart devices and identifying any trends in the data. Using this information to help guide Bellabeat marketing strategy.<br>
 ## Data for this case study
-FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits
+<a href="https://www.kaggle.com/datasets/arashnic/fitbit">FitBit Fitness Tracker Data</a>(CC0: Public Domain, dataset made available through <a href="https://www.kaggle.com/arashnic">Mobius)</a>: This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits <br>
+Dataset consists of 18 "csv" files 
+## Data preparation
