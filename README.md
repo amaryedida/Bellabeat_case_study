@@ -9,3 +9,9 @@ Analyzing smart device usage data in order to gain insight into how people are a
 <a href="https://www.kaggle.com/datasets/arashnic/fitbit">FitBit Fitness Tracker Data</a>(CC0: Public Domain, dataset made available through <a href="https://www.kaggle.com/arashnic">Mobius)</a>: This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits <br>
 Dataset consists of 18 "csv" files 
 ## Data preparation
+I have used microsoft excel and Tableau Public for analyis and visualization. <br> 
+First I have examined the data in excel and made the following observations through filter, count function in excel<br>
+<sub> Date range of data : 12/04/2016 to 12/05/2016  <br>
+No of Distinct users : 33<br>
+No of Distinct users who recorded sleep : 24 <br>
+No of Distinct users who recorded weight : 8<br></sub>
