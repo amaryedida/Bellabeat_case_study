@@ -15,3 +15,5 @@ First I examined the data in Excel to find any null values through conditional f
 No of Distinct users: 33<br>
 No of Distinct users who recorded sleep: 24 <br>
 No of Distinct users who recorded weight: 8</sub><br>
+In the daily_activity excel I had created two columns to identify the month and weekday from "ActivityDate" column <br>
+<sub> Formula used </sub>
