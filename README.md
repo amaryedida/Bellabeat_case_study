@@ -19,7 +19,7 @@ The dataset consists of 18 "CSV" files
 ## Data Preparation
 Tools used: Microsoft Excel <br> 
   First I examined the data to find any null values through conditional formatting and also made the following observations through the advanced filter, and count function <br>
-<sub> Date range of data : 12/04/2016 to 12/05/2016  <br>
+<sub> Date range of data : 12/04/2016 to 12/05/2016 (30 days)  <br>
 No of Distinct users: 33<br>
 No of Distinct users who recorded sleep: 24 <br>
 No of Distinct users who recorded weight: 8</sub><br>
