@@ -3,7 +3,10 @@
 **30/01/2024**<br>
 ## [**Introduction**](#introduction)  
 ## [**Business Task**](#business-task)  
-## [**About the Data**](#about-the-data)
+## [**About the Data**](#about-the-data)  
+## [**Data Preparation**](#data-preparation)  
+## [**Analysis**](#analysis)  
+
 
 ## Introduction<br>
 Bellabeat is a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits.
