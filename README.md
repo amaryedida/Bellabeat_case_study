@@ -37,6 +37,10 @@ Tools used: Microsoft Excel, Tableau Public
 
 The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy lifestyle. The following observations are made through visualizations in Tableau   
 
+ Number of days each user had recorded  8K or more steps  
+ 
+
+   
   
   
 
