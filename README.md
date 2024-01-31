@@ -42,8 +42,9 @@ The total daily steps that users have recorded range from 0-36019. As per [CDC r
 
  ![viz_1](Images/zero_days_users.png)  
 
- ![viz_3](Images/dayvs8k.png)
-
+ ![viz_3](Images/dayvs8k.png)  
+  
+ ![viz_4](Images/tues_thurs_zero.png)  
    
   
   
