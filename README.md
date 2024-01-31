@@ -35,7 +35,7 @@ As the ["weightLogInfo.csv"](cleaned%20data/weightLogInfo.csv) has only data fro
 ## Analysis
 Tools used: Microsoft Excel, Tableau Public  
 
-The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy lifestyle. The following observations are made through visualizations in Tableau   
+The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy life. The following observations are made through visualizations in Tableau regarding daily steps   
 
   
  ![viz_1](Images/each_user_8k_more.png)  
@@ -44,13 +44,19 @@ The total daily steps that users have recorded range from 0-36019. As per [CDC r
 
  ![viz_3](Images/dayvs8k.png)  
   
- ![viz_4](Images/tues_thurs_zero.png)  
+ ![viz_4](Images/tues_thurs_zero.png)    
    
+ ![viz_5](Images/Sunday_least_steps.png)  
+     
+ ![viz_5](Images/Sunday_least_steps.png)  
+    
+    
+As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/adults/index.htm) 150 minutes of physical activity per week is optimal for a healthy life. The following observations are made through visualizations in Tableau regarding active and sedentary minutes  
   
+ ![viz_6](Images/Weekly_150.png)    
   
-
-
-
+ ![viz_7](Images/proprtion.png)   
+  
 
 
 
