@@ -20,7 +20,7 @@ In the ["daily_activity"](cleaned%20data/daily_activity.csv) file, I created two
 ![day_formula](Images/Formula_date.png)<br>
 <br>![month_formula](Images/Formula_month.png)<br>
 <br>
-In the "hourly_calories", "hourly_Intensities", "hourly_steps" files, I created a column to identify the "Hour" from "ActivityHour" column<br>
+In the ["hourly_calories"](cleaned%20data/hourly_calories.csv), ["hourly_Intensities"](cleaned%20data/hourly_Intensities.csv), ["hourly_steps"](cleaned%20data/hourly_steps.csv) files, I created a column to identify the "Hour" from "ActivityHour" column<br>
 ![hour_formula](Images/Formula_hour.png)
 
 
