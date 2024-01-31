@@ -1,6 +1,7 @@
 # **FitBit Smart Device Analysis**
 **Amar Yedida**<br>
 **30/01/2024**<br>
+[Dashboard](https://public.tableau.com/views/Bellabeat_capstone_case_study/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## [**Introduction**](#introduction)  
 ## [**Business Task**](#business-task)  
 ## [**About the Data**](#about-the-data)  
