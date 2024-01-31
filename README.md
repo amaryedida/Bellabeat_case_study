@@ -10,11 +10,15 @@ Analyzing smart device usage data in order to gain insight into how people are a
 The dataset consists of 18 "CSV" files
 ## Data Preparation
 Tools used: Microsoft Excel <br> 
-First I examined the data in Excel to find any null values through conditional formatting and also made the following observations through the advanced filter, and count function in Excel <br>
+First I examined the data to find any null values through conditional formatting and also made the following observations through the advanced filter, and count function <br>
 <sub> Date range of data : 12/04/2016 to 12/05/2016  <br>
 No of Distinct users: 33<br>
 No of Distinct users who recorded sleep: 24 <br>
 No of Distinct users who recorded weight: 8</sub><br>
-In the daily_activity excel I had created two columns to identify the month and weekday from "ActivityDate" column <br>
-![month_formula](Images/Formula_date.png)
+In the ["daily_activity"](cleaned data/daily_activity.csv) file, I created two columns to identify the "Month" and "Weekday" from "ActivityDate" column <br>
+![day_formula](Images/Formula_date.png)<br>
+<br>![month_formula](Images/Formula_month.png)<br>
+In the "hourly_calories", "hourly_Intensities", "hourly_steps" files, I created a column to identify the "Hour" from "ActivityHour" column<br>
+![hour_formula](Images/Formula_hour.png)
+
 
