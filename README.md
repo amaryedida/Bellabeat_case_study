@@ -18,7 +18,7 @@ Analyzing smart device usage data in order to gain insight into how people are a
 The dataset consists of 18 "CSV" files
 ## Data Preparation
 Tools used: Microsoft Excel <br> 
-First I examined the data to find any null values through conditional formatting and also made the following observations through the advanced filter, and count function <br>
+  First I examined the data to find any null values through conditional formatting and also made the following observations through the advanced filter, and count function <br>
 <sub> Date range of data : 12/04/2016 to 12/05/2016  <br>
 No of Distinct users: 33<br>
 No of Distinct users who recorded sleep: 24 <br>
@@ -34,6 +34,7 @@ In the ["hourly_calories"](cleaned%20data/hourly_calories.csv), ["hourly_Intensi
 As the ["weightLogInfo.csv"](cleaned%20data/weightLogInfo.csv) has only data from 8 users it is not used in the analysis  
 ## Analysis
 Tools used: Microsoft Excel, Tableau Public  
+
 The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy lifestyle. The following observations are made through visualizations in Tableau   
 
   
