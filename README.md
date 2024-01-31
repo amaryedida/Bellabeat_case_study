@@ -15,9 +15,11 @@ First I examined the data to find any null values through conditional formatting
 No of Distinct users: 33<br>
 No of Distinct users who recorded sleep: 24 <br>
 No of Distinct users who recorded weight: 8</sub><br>
+<br>
 In the ["daily_activity"](cleaned%20data/daily_activity.csv) file, I created two columns to identify the "Month" and "Weekday" from "ActivityDate" column <br>
 ![day_formula](Images/Formula_date.png)<br>
 <br>![month_formula](Images/Formula_month.png)<br>
+<br>
 In the "hourly_calories", "hourly_Intensities", "hourly_steps" files, I created a column to identify the "Hour" from "ActivityHour" column<br>
 ![hour_formula](Images/Formula_hour.png)
 
