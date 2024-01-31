@@ -30,8 +30,18 @@ In the ["daily_activity"](cleaned%20data/daily_activity.csv) file, I created two
 <br>
 In the ["hourly_calories"](cleaned%20data/hourly_calories.csv), ["hourly_Intensities"](cleaned%20data/hourly_Intensities.csv), ["hourly_steps"](cleaned%20data/hourly_steps.csv) files, I created a column to identify the "Hour" from "ActivityHour" column<br>
 ![hour_formula](Images/Formula_hour.png) <br>
+
+As the ["weightLogInfo.csv"](cleaned%20data/weightLogInfo.csv) has only data from 8 users it is not used in the analysis  
 ## Analysis
-Tools used: Microsoft Excel, Tableau Public
+Tools used: Microsoft Excel, Tableau Public  
+The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy lifestyle. The following observations are made through visualizations in Tableau   
+
+  
+  
+
+
+
+
 
 
 
