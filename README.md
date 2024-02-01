@@ -66,5 +66,7 @@ As per [CDC recommendation](https://www.cdc.gov/sleep/about_sleep/how_much_sleep
 Created a column in excel for sleep_time_diff [(TotalTimeInBed)-(TotalMinutesAsleep)].The following observations are made through visualizations in excel. 11 users have sleep_time_diff of 60 min above atleast once       
   
 ![viz_11](Images/diff_time.png)  
-  
-
+      
+Hourly data is visualized in Tableau and the following observation are made         
+    
+![viz_12](Images/cal_vs_hour.png)  
