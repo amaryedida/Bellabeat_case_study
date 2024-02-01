@@ -57,7 +57,7 @@ As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/adults/i
  
 ![viz_8](Images/calvsminutes.png)  
 
-![viz_9](Images/Active Vs day.png)  
+![viz_9](Images/Active%20Vs%20day.png)  
   
 
 
