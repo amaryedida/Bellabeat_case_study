@@ -40,7 +40,7 @@ The total daily steps that users have recorded range from 0-36019. As per [CDC r
   
 ![viz_1](Images/each_user_8k_more.png)  
 
-![viz_1](Images/zero_days_users.png)  
+![viz_2](Images/zero_days_users.png)  
 
 ![viz_3](Images/dayvs8k.png)  
   
@@ -61,10 +61,10 @@ As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/adults/i
     
 As per [CDC recommendation](https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html) 7 or more hour of sleep is optimal for a healthy life.The following observations are made through visualizations in Tableau regarding the recorded sleep data      
   
-![viz_9](Images/optimal_sleep.png)  
+![viz_10](Images/optimal_sleep.png)  
   
 Created a column in excel for sleep_time_diff [(TotalTimeInBed)-(TotalMinutesAsleep)].The following observations are made through visualizations in excel. 11 users have sleep_time_diff of 60 min above atleast once       
   
-![viz_9](Images/diff_time.png)  
-
+![viz_11](Images/diff_time.png)  
+  
 
