@@ -38,24 +38,27 @@ Tools used: Microsoft Excel, Tableau Public
 The total daily steps that users have recorded range from 0-36019. As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm) 8,000 to 10,000 steps per day is optimal for a healthy life. The following observations are made through visualizations in Tableau regarding daily steps   
 
   
- ![viz_1](Images/each_user_8k_more.png)  
+![viz_1](Images/each_user_8k_more.png)  
 
- ![viz_1](Images/zero_days_users.png)  
+![viz_1](Images/zero_days_users.png)  
 
- ![viz_3](Images/dayvs8k.png)  
+![viz_3](Images/dayvs8k.png)  
   
- ![viz_4](Images/tues_thurs_zero.png)    
+![viz_4](Images/tues_thurs_zero.png)    
    
- ![viz_5](Images/Sunday_least_steps.png)   
+![viz_5](Images/Sunday_least_steps.png)   
 
      
-As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/adults/index.htm) 150 minutes of physical activity per week is optimal for a healthy life. The following observations are made through visualizations in Tableau regarding active and sedentary minutes  
-  
- ![viz_6](Images/Weekly_150.png)    
-  
- ![viz_7](Images/proprtion.png)   
+As per [CDC recommendation](https://www.cdc.gov/physicalactivity/basics/adults/index.htm) 150 minutes of physical activity per week is optimal for a healthy life. Created a calcualted field in Tableau for total active minuted [(very active minutes)+(FairlyActive minutes)+(lightlyActive minutes) ].The following observations are made through visualizations in Tableau regarding active and sedentary minutes    
     
- ![viz_8](Images/calvsminutes.png)   
+![viz_6](Images/Weekly_150.png)    
+  
+![viz_7](Images/proprtion.png)  
+ 
+![viz_8](Images/calvsminutes.png)  
+
+![viz_9](Images/Active Vs day.png)  
+  
 
 
 
