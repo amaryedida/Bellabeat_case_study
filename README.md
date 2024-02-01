@@ -70,3 +70,5 @@ Created a column in excel for sleep_time_diff [(TotalTimeInBed)-(TotalMinutesAsl
 Hourly data is visualized in Tableau and the following observation are made         
     
 ![viz_12](Images/cal_vs_hour.png)  
+
+![viz_12](Images/steps_vs_hour.png)    
