@@ -71,4 +71,8 @@ Hourly data is visualized in Tableau and the following observation are made
     
 ![viz_12](Images/cal_vs_hour.png)  
 
-![viz_12](Images/steps_vs_hour.png)    
+![viz_13](Images/steps_vs_hour.png)  
+
+## Dashboard   
+
+![viz_14](Images/Dashboard%201%20(1).png)  
