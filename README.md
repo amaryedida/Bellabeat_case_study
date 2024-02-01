@@ -76,3 +76,6 @@ Hourly data is visualized in Tableau and the following observation are made
 ## Dashboard   
 
 ![viz_14](Images/Dashboard%201%20(1).png)  
+  
+## Recommendations  
+
