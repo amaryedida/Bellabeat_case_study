@@ -78,4 +78,13 @@ Hourly data is visualized in Tableau and the following observation are made
 ![viz_14](Images/Dashboard%201%20(1).png)  
   
 ## Recommendations  
+1. Notifications in the app and watch to achieve 8k steps, optimal sleep
+2. Notifications in the app when watch or activity tracker has recorderd more time as sedentary minutes
+3. Notifications in the app when watch or activity tracker has recorderd more time difference between time in bed and time asleep
+4. As more calories and steps are recorded between 08:00 AM to 07:00 PM the notifications and alerts regarding this data should be sent between this time
+5. Discounts for bellabeat membership subscription can be given based on health score which considers steps,calories,sleep data
+6. Some of the notications and insights into personal health data can be a feature in bellabeat membership subscription
+     
+ 
+
 
